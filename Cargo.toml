@@ -1,0 +1,8 @@
+[package]
+name = "elm327"
+authors = ["David Cole <david.cole1340@gmail.com>"]
+description = "Rust library for interacting with ELM327 devices."
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
